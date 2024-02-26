@@ -1,0 +1,76 @@
+h1{
+    justify-content: center;
+    color: red;
+}
+p{
+    color: rgb(3, 95, 12);
+}
+form{
+    margin-left: 3cm;
+    padding: 5px;
+    height: 22;
+    width: 240px;
+    background-color: rgb(234, 235, 235);
+    border: 3px solid black;
+    border-radius: 15px;
+    justify-content: center;
+}
+.wallpaper{
+    background-image:url("https://w0.peakpx.com/wallpaper/852/116/HD-wallpaper-mahadev-lord-shiva-shiva-hindu-bhakti-devotional-god-thumbnail.jpg");
+
+}
+.camhole{
+    justify-content: center;
+}
+
+.button3{
+    width: 70px;
+    height: 50px;
+    margin: 8px 8px;
+    border-radius: 5px;
+    background-color: rgb(54, 54, 236);
+    color: chartreuse;
+
+}
+
+.button2{
+    border-radius: 50%;
+    background-color: rgb(255, 183, 0);
+    color: rgb(255, 0, 149);
+
+}
+.button0{
+    color: rgb(13, 17, 5);
+    border: 2px solid rgb(0, 255, 98);
+    padding: 2px;
+    margin-right: 35px;
+    margin-left: 5px;
+
+
+}
+.GoogleMaps{
+    height: 470px;
+    width: 240px;
+}
+container{
+    
+    border :1px solid red
+}
+.se{
+    color: rgb(15, 5, 5);
+    border: 1px solid black;
+    background: rgb(248, 249, 250)
+}
+.cam{
+    width: px;
+    background-color: blue;
+    color: brown;
+}
+.icons{
+    font-size:42px;
+    color: rgb(240, 239, 239);
+    
+}
+.icons:hover{
+    color: rgb(245, 12, 12);   
+}
